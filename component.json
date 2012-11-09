@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "main": "./konami.js",
   "dependencies": {
-    "jquery": "~1.5.0"
+    "jquery": ">=1.5.0"
   }
 }
